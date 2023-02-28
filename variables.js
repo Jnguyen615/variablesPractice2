@@ -9,4 +9,10 @@ var kids = true
 var pets = true
 var native = true 
 
+name = "Lana"
+age = 6
+kids = false
 
+console.log(name)
+console.log(age)
+console.log(kids)
